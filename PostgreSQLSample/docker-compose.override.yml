@@ -1,0 +1,20 @@
+version: '3.4'
+
+services:
+  postgresqlsample:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+
+  firstwebapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "80"
+
+networks:
+  default:
+    external:
+      name: nat
+

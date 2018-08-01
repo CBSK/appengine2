@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  postgresqlsample:
+    image: ${DOCKER_REGISTRY}postgresqlsample
+    build:
+      context: .
+      dockerfile: PostgreSQLSample\Dockerfile
+
+  firstwebapi:
+    image: ${DOCKER_REGISTRY}firstwebapi
+    build:
+      context: .
+      dockerfile: ..\FirstWebApi\Dockerfile
+

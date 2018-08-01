@@ -1,0 +1,11 @@
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\bin\Debug\netcoreapp2.0\GoogleAppEngine1.deps.json
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\bin\Debug\netcoreapp2.0\GoogleAppEngine1.runtimeconfig.json
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\bin\Debug\netcoreapp2.0\GoogleAppEngine1.runtimeconfig.dev.json
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\bin\Debug\netcoreapp2.0\GoogleAppEngine1.dll
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\bin\Debug\netcoreapp2.0\GoogleAppEngine1.pdb
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.csprojAssemblyReference.cache
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.csproj.CoreCompileInputs.cache
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.AssemblyInfoInputs.cache
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.AssemblyInfo.cs
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.dll
+D:\Bharati\Projects\Visual Studio\ASP.NET Core\GoogleAppEngine1\GoogleAppEngine1\obj\Debug\netcoreapp2.0\GoogleAppEngine1.pdb
